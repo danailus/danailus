@@ -1,8 +1,6 @@
 ### Welcome to the Danailus profile, let's program together?
 <div>
   <a href="https://github.com/danailus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?danailus=anuraghazra&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danailus&layout=compact&langs_count=6&theme=merko"/>
 </div>
 
 <div style="display: inline_block"><br>
