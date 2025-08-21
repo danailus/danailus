@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Starting programming after the age of 40, but specialist in real estate. Combining knowledge to offer a better experience!
+  ### Learn and progress!
  
 <div> 
   <a href="https://instagram.com/danailus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
